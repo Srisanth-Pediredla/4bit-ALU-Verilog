@@ -21,7 +21,7 @@ A simple Verilog implementation of a 4-bit Arithmetic Logic Unit (ALU) that perf
 ## Files
 - `alu.v` — ALU module
 - `alu_tb.v` — Testbench with VCD dump
-- `dump.vcd` — Waveform output file (optional)
+- `waveform.png` — waveform output image 
 
 ## 📈 Waveform Screenshot
 ![Waveform Screenshot](waveform.png)
