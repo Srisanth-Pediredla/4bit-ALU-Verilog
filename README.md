@@ -27,4 +27,4 @@ A simple Verilog implementation of a 4-bit Arithmetic Logic Unit (ALU) that perf
 ![Waveform Screenshot](waveform.png)
 
 ## Usage
-Run simulation using Icarus Verilog:
+Run simulation using EDA Playground: [https://www.edaplayground.com/](https://www.edaplayground.com/)
